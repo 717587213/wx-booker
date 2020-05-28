@@ -33,10 +33,3 @@
 10. 图书订阅帮助信息
 11. 用户浏览与喜欢统计
 12. UI交互清爽简单
-
-# 相关资源  
-- *github*  
-[https://github.com/shiheme/wx-booker](https://github.com/shiheme/wx-booker)
-- *gitee镜像*  
-[https://gitee.com/week7day/wx-booker](https://gitee.com/week7day/wx-booker)
-
